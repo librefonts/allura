@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="H" r="W" v="62"/>
+      <pair l="W" r="X" v="124"/>
+      <pair l="X" r="Y" v="64"/>
+      <pair l="Y" r="Z" v="142"/>
+      <pair l="Z" r="bracketleft" v="95"/>
+      <pair l="asciicircum" r="underscore" v="87"/>
+      <pair l="backslash" r="bracketright" v="142"/>
+      <pair l="bracketleft" r="backslash" v="357"/>
+      <pair l="bracketright" r="asciicircum" v="215"/>
+      <pair l="d" r="l" v="104"/>
+      <pair l="k" r="L" v="126"/>
+      <pair l="p" r="a" v="-29"/>
+      <pair l="quoteleft" r="a" v="142"/>
+      <pair l="underscore" r="quoteleft" v="64"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
